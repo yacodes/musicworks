@@ -1,0 +1,13 @@
+#+TITLE: Composition Lesson #4
+#+AUTHOR: Aleksandr Yakunichev
+#+EMAIL: hi@ya.codes
+
+* Ссылки
+  - [[https://muzon-muzon.ru/biblioteka/osnovy_garmonii_i_teorii_muzyki.pdf][Теория Сольфеджио]]
+  - [[https://muz-teoretik.ru/akkordy-v-muzyke/][Аккорды в музыке и их виды]] 
+  - [[https://study-music.ru/akkord-v-sovremennoj-muzyke/][Аккорды в музыке. Виды и типы аккордов]]
+* Вопросы
+  - Почему четырёхголосная форма изложения сетки удобна?
+  - Какая разница между гармоническим и мелодическим соединением аккордов?
+  - Что такое перемещение аккорда?
+  - Что такое задержание?
