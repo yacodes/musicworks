@@ -1,0 +1,8 @@
+#+TITLE: Composition Lesson #5
+#+AUTHOR: Aleksandr Yakunichev
+#+EMAIL: hi@ya.codes
+
+* Задания
+** TODO Дописать фугу
+** TODO Написать первую часть сонаты
+** TODO Сделать музыкальный анализ Чайковский -- 4 симфония. 1 часть
