@@ -3,9 +3,10 @@
 #+EMAIL: hi@ya.codes
 
 * Задания
-** TODO Прочитать [[http://www.chaskor.ru/article/sergej_nevskij_osnovnaya_strategiya_stravinskogo_-_skolzhenie_23064][Сергей Невский - Основная стратегия Стравинского]]
-** TODO Прочитать [[http://www.chaskor.ru/article/vladimir_gorlinskij_melodii_stravinskogo_-_himery_razdiraemye_iznutri_na_chasti_25478][Горлинский - Мелодии Стравинского]] 
-** TODO Дописать фугу
-** TODO Написать первую часть сонаты
-** TODO Написать полиметрический музыкальный кусок
-** TODO Написать полиметрическую композицию с TidalCycles
+** TODO Написать Sonata
+*** TODO Написать первую часть сонаты
+** TODO Разобраться с полиметрией
+*** TODO Написать полиметрический музыкальный кусок
+*** TODO Написать полиметрическую композицию с TidalCycles
+*** TODO Прочитать [[http://www.chaskor.ru/article/sergej_nevskij_osnovnaya_strategiya_stravinskogo_-_skolzhenie_23064][Сергей Невский - Основная стратегия Стравинского]]
+*** TODO Прочитать [[http://www.chaskor.ru/article/vladimir_gorlinskij_melodii_stravinskogo_-_himery_razdiraemye_iznutri_na_chasti_25478][Горлинский - Мелодии Стравинского]] 
