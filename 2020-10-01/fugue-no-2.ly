@@ -22,18 +22,6 @@ bassIntermediaAc        = {| b2 e,8[d e g]         | a8[b] c2 fis,8[e]   |}
 trebleCounterSubjectIV  = {| d4 c8[e] d4 e8[f] | g4 a8[f]  g4 f8[g] | a8[bes c bes] a4 g8[f]    | e8[c] d4 e8[f g  a] |}
 bassCounterSubjectIV    = {| d2        b2~     | b8[d e f] e2       | f2            a8[bes] c4~ | c8[e] d2~     d8[c] |}
 
-
-
-
-
-
-
-
-
-
-
-
-
 trebleIntermediaBa      = {| bes8[c]  a4 g8[f]  e4  | f8[e] c4 a8[bes a g] | f8[e] f4 d'8[c bes a]  |}
 bassIntermediaBa        = {| bes8[a~] a8[f e d] c4~ | c4    e2        c4~  | c4    d4 f4    g8[ a] |}
 
@@ -43,8 +31,8 @@ bassIntermediaBb        = {| c4    e,4  g4    a8[bes] | d4    f,4   a4    bes8[c
 trebleSubjectCoda       = {| c8[b] a4 g8[b] a4  | b8[c] d4 e8[c] d4  | c8[d] e8[f g f] e4    |}
 bassSubjectCoda         = {| a8[g] a2       f4~ | f4~f8[a b c]   b4~ | b4    c2        e8[f] |}
 
-trebleCoda              = {| d8[c] b8[g] b4 c8[d] | e4 d4 b8[a g b] | a1 |} 
-bassCoda                = {| g4~g8[b]    g4 e8[d] | c4 b4 d8[c e g] | a1 |}
+trebleCoda              = {| d8[c] b8[g] e4 g8[b] | c4 b4 d8[c e g] | a1 |} 
+bassCoda                = {| g4~   g8[b] c4 e8[d] | e4 d4 b8[a g b] | a1 |}
 
 treble = \relative a' {
   \trebleSubject \break
