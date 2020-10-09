@@ -1,5 +1,5 @@
 \header {
-  title = "Fugue No. 2"
+  title = "Fugue No. 1"
   composer = "Aleksandr Yakunichev"
   tagline = ""
 }
