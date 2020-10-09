@@ -4,39 +4,33 @@
   tagline = ""
 }
 
-trebleSubject           = {| r1 | r1 | r1 | r1 |}
-bassSubject             = {| r1 | r1 | r1 | r1 |}
+trebleTheme           = {| c4 e8[b] c4 g'8[a] | d,4 f8 d4 d8 f8[g] | a4 e8[a c a e a] | g1 |} % T -> S -> D -> T
+bassTheme             = {| r1 | r1 | r1 | r1 |}
 
-treble = \relative b' {
-  \trebleSubject \break
+trableTransition      = {| r1 | r1 |}
+bassTransition        = {| r1 | r1 |}
+
+treble = \relative c' {
+  \trebleTheme \break
+  \trableTransition \break
 }
-bass = \relative b, {
-  \bassSubject \break
+bass = \relative c, {
+  \bassTheme \break
+  \bassTransition \break
 }
 
 \score {
-  % \midi {}
+  \midi {}
   \new PianoStaff <<
     \new Staff = "Piano" <<
       \tempo "Allegro"
-      \key b \minor
+      \key c \major
       \treble
     >>
     \new Staff = "Bass" <<
-      \key b \minor
+      \key c \major
       \clef "bass"
       \bass
     >>
   >>
 }
-
-
-
-
-
-
-
-
-
-
-
